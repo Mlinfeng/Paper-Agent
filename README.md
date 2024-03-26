@@ -7,7 +7,7 @@
 - ⚡ **User Agent**: a customized agent for building real-world applications, with instructions, extra-knowledge and tools provided by builder agent and/or user inputs.
 - ⚡ **Configuration Tooling**: the interface to customize user agent configurations. Allows real-time preview of agent behavior as new confiugrations are updated.
 
-🔗 We currently leverage AgentFabric to build various agents around [Qwen2.0 LLM API](https://help.aliyun.com/zh/dashscope/developer-reference/api-details) available via DashScope. We are also actively exploring
+🔗 We currently leverage AgentFabric to build various agents around [InternLM2 API] available via DashScope. We are also actively exploring
 other options to incorporate (and compare) more LLMs via API, as well as via native ModelScope models.
 
 
