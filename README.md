@@ -1,25 +1,5 @@
 ---
 
-- multi-modal 
-tags: #自定义标签
-  - agent
-  - AgentFabric
-
-## 启动文件(若SDK为Gradio/Streamlit，默认为app.py, 若为Static HTML, 默认为index.html)
-deployspec:
-  entry_file: app_factory.py
-
-license: Apache License 2.0
----
-
-
-<h1> Modelscope AgentFabric: Customizable AI-Agents For All</h1>
-
-<p align="center">
-    <br>
-    <img src="https://modelscope.oss-cn-beijing.aliyuncs.com/modelscope.gif" width="400"/>
-    <br>
-<p>
 
 ## Introduction
 **ModelScope AgentFabric** is an interactive framework to facilitate creation of agents tailored to various real-world applications. AgentFabric is built around pluggable and customizable LLMs, and enhance capabilities of  instrcution following, extra knowledge retrieval and leveraging external tools. The AgentFabric is woven with interfaces including:
