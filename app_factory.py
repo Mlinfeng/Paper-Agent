@@ -46,6 +46,6 @@ def download_and_setup():
     else:
         raise Exception(f"appBot.py does not exist in {pythonpath}")
 
-# 使用示例
+# 使用演示
 download_and_setup()
 
